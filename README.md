@@ -1,5 +1,5 @@
 # Dotfiles
 Dotfiles used for the I3 configuration on Ubuntu.
 
-Terminal: URxvt
-Linux Distribution: Ubuntu Mate
+Linux Distribution: Ubuntu Mate <br />
+Terminal: URxvt <br />
