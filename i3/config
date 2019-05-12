@@ -178,6 +178,7 @@ bar {
 
 bindsym $mod+shift+x exec i3lock --color "#E9EBE4"
 
+bindsym $mod+m		 exec rofi -show run
 bindsym $mod+shift+f exec firefox
 bindsym $mod+shift+o exec libreoffice
 bindsym $mod+shift+i exec inkscape
