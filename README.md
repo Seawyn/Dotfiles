@@ -6,7 +6,7 @@ Dotfiles used for the I3 configuration on Ubuntu.
 i3 folder: Contains the config file that specifies looks, shortcuts and behaviour
 Xresources: Modifies the URxvt terminal
 
-## Specs
+## Software Used
 
 Linux Distribution: Ubuntu Mate <br />
 Terminal: URxvt <br />
