@@ -12,6 +12,6 @@ Linux Distribution: Ubuntu Mate <br />
 Terminal: URxvt <br />
 
 ## Aditional Software
- - i3lock
+ - i3lock (optional)
  - Rofi
  - Ranger
