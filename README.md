@@ -10,6 +10,7 @@ Xresources: Modifies the URxvt terminal
 
 Linux Distribution: Ubuntu Mate <br />
 Terminal: URxvt <br />
+Lock: LightDM
 
 ## Aditional Software
  - i3lock (optional)
