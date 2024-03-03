@@ -1,5 +1,5 @@
 # Dotfiles
-Dotfiles used for the I3 configuration on Ubuntu.
+Dotfiles used for the i3 configuration on Ubuntu.
 
 ## Files
 
@@ -8,9 +8,8 @@ Xresources: Modifies the URxvt terminal
 
 ## Software Used
 
-Linux Distribution: Ubuntu Mate <br />
-Terminal: URxvt <br />
-Lock: LightDM
+Linux Distribution: Ubuntu <br />
+Terminal: URxvt
 
 ## Aditional Software
  - i3lock (optional)
